@@ -37,3 +37,23 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+
+/* === Overrides: 对齐参考站 zh.yudongzhang.com 的字体 / 颜色 / 字号 === */
+html, body { font-family: "Trebuchet MS", Helvetica, sans-serif; }
+html { font-size: 14px; }
+@media (min-width: 48em) { html { font-size: 15px; } }
+@media (min-width: 64em) { html { font-size: 16px; } }
+
+body { color: #494e52; }
+a { color: #224b8d; }
+a:hover { color: #1b3c71; }
+
+.page__content {
+  h1 { font-size: 1.4em; margin-top: 1.2em; }
+  h2 { font-size: 1.2em; margin-top: 1.2em; }
+  h3, h4, h5, h6 { font-size: 1em; }
+  p, li { line-height: 1.6; }
+}
+
+.sidebar p, .sidebar li,
+.masthead__inner-wrap { font-family: "Trebuchet MS", Helvetica, sans-serif; }
