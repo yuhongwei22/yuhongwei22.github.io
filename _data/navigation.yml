@@ -3,13 +3,9 @@ main:
     url: /#about
   - title: "教育经历"
     url: /#education
-  - title: "新闻"
-    url: /#news
-  - title: "论文发表"
-    url: /#publications
   - title: "实习经历"
     url: /#internships
+  - title: "论文发表"
+    url: /#publications
   - title: "荣誉奖项"
     url: /#honors
-  - title: "技能"
-    url: /#skills

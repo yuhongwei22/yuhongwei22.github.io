@@ -32,17 +32,13 @@ redirect_from:
 
 ---
 
-<span class="anchor" id="news"></span>
+<span class="anchor" id="internships"></span>
 
-# 🔥 新闻
+# 💻 实习经历
 
-- *2026.05*: 加入**京东零售 TGT 顶尖青年技术天才计划**,参与多模态图像视频生成大模型方向。
-- *2026.01*: 加入**阶跃 (StepFun) 基模组**,担任 GUI-Agent Post Training 算法实习生。
-- *2025.09*: 加入**阿里巴巴 高德地图**,担任 AIGC 算法实习生。
-- *2025*: 一作论文 **DADet** 被 **ICCV 2025** 接收为 **Spotlight**。
-- *2025*: 一作论文 **MEDUSA** 被 **ICML 2025** 接收。
-- *2025*: 共同一作论文 **FactGuard** 被 **ICML 2026** 接收。
-- *2024*: 获**博士国家奖学金**。
+- *2026.05 - 至今*,[**京东零售**](https://www.jd.com/) TGT 顶尖青年技术天才计划,北京。多模态图像视频生成大模型方向。
+- *2026.01 - 2026.05*,[**阶跃 (StepFun)**](https://www.stepfun.com/) 基模组,北京。GUI-Agent 后训练。
+- *2025.09 - 2026.01*,[**阿里巴巴 高德地图**](https://www.amap.com/),北京。AIGC 算法。
 
 ---
 
@@ -57,10 +53,10 @@ redirect_from:
 - `arXiv 2026` [Skill-Guided Continuation Distillation for GUI Agents](https://arxiv.org/abs/2606.18890), Z. Fan\*, **H. Yu\***, Y. Shen, H. Yan, G. Peng, T. Peng, Y. Zhang, X. Zhang, K. Tan, et al.
 - `ICML 2026` [FactGuard: Agentic Video Misinformation Detection via Reinforcement Learning](https://arxiv.org/abs/2510.06914), Z. Li\*, **H. Yu\***, H. Jiang, Q. Sheng, Y. Xu, B. Bi, Y. Li, Z. Yuan, Y. Cai, Z. Wang.
 
-## AIGC / 视觉生成与重建的安全性
+## AIGC
 
 - `ICCV 2025` <span style="color:#d32f2f">(Spotlight)</span> [DADet: Safeguarding Image Conditional Diffusion Models against Adversarial and Backdoor Attacks via Diffusion Anomaly Detection](https://openaccess.thecvf.com/content/ICCV2025/html/Yu_DADet_Safeguarding_Image_Conditional_Diffusion_Models_against_Adversarial_and_Backdoor_ICCV_2025_paper.html), **H. Yu**, X. Ding, J. Li, J. Wang, Y. Zhang, R. Wang, H. Ma, J. Chen.
-- `ICML 2025` [MEDUSA: Motion Elimination in Diffusion Using Spectral Attack](https://icml.cc/virtual/2025), **H. Yu**, et al.
+- `ICML 2026` [MEDUSA: Motion Elimination in Diffusion Using Spectral Attack](https://icml.cc/virtual/2026), **H. Yu**, et al.
 - `AAAI 2024` [Step Vulnerability Guided Mean Fluctuation Adversarial Attack against Conditional Diffusion Models](https://ojs.aaai.org/index.php/AAAI/article/view/28503), **H. Yu**, J. Chen, X. Ding, Y. Zhang, T. Tang, H. Ma.
 - `AAAI 2025` [A²RNet: Adversarial Attack Resilient Network for Robust Infrared and Visible Image Fusion](https://ojs.aaai.org/index.php/AAAI/article/view/32492), J. Li\*, **H. Yu\***, J. Chen, X. Ding, J. Wang, J. Liu, B. Zou, H. Ma.
 - `ICCV 2025` <span style="color:#d32f2f">(Spotlight)</span> [Kaleidoscopic Background Attack: Disrupting Pose Estimation with Multi-Fold Radial Symmetry Textures](https://openaccess.thecvf.com/content/ICCV2025/html/Ding_Kaleidoscopic_Background_Attack_Disrupting_Pose_Estimation_with_Multi-Fold_Radial_Symmetry_ICCV_2025_paper.html), X. Ding\*, **H. Yu\***, J. Li, F. Li, Y. Shang, B. Zou, H. Ma, J. Chen.
@@ -78,16 +74,6 @@ redirect_from:
 - `KBS 2024` [Image Paragraph Captioning with Topic Clustering and Topic Shift Prediction](https://www.sciencedirect.com/science/article/abs/pii/S0950705124000364), T. Tang, J. Chen, Y. Huang, H. Ma, Y. Zhang, **H. Yu**.
 
 更多论文请见我的 [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=cDidt64AAAAJ)。
-
----
-
-<span class="anchor" id="internships"></span>
-
-# 💻 实习经历
-
-- *2026.05 - 至今*,[**京东零售**](https://www.jd.com/) TGT 顶尖青年技术天才计划,北京。多模态图像视频生成大模型方向。
-- *2026.01 - 2026.05*,[**阶跃 (StepFun)**](https://www.stepfun.com/) 基模组,北京。GUI-Agent 后训练。
-- *2025.09 - 2026.01*,[**阿里巴巴 高德地图**](https://www.amap.com/),北京。AIGC 算法。
 
 ---
 
