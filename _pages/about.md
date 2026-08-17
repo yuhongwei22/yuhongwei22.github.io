@@ -51,7 +51,7 @@ redirect_from:
 
 <ul class="internship-list">
   <li>
-    <span class="company-logo"><img src="/images/companies/jd.png" alt="京东标志" width="48" height="48" loading="lazy"></span>
+    <span class="company-logo"><img src="/images/companies/jd-joy.png" alt="京东 Joy 标志" width="256" height="256" loading="lazy"></span>
     <span><em>2026.05 - 至今</em>,<a href="https://www.jd.com/"><strong>京东零售</strong></a> TGT 顶尖青年技术天才计划,北京。多模态图像视频生成大模型方向。</span>
   </li>
   <li>
