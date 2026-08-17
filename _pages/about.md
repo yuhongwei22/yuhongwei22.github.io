@@ -55,6 +55,7 @@ redirect_from:
 
 ## AIGC
 
+- `ACM MM 2026` [Decoupling Cross-Modality Manifold Discrepancy: Leveraging Visible Diffusion Priors for Infrared Super-Resolution](https://arxiv.org/abs/2607.21174), Y. Hua\*, **H. Yu\***, J. Li, Q. Liu, H. Ma, J. Chen.
 - `ICCV 2025` <span style="color:#d32f2f">(Spotlight)</span> [DADet: Safeguarding Image Conditional Diffusion Models against Adversarial and Backdoor Attacks via Diffusion Anomaly Detection](https://openaccess.thecvf.com/content/ICCV2025/html/Yu_DADet_Safeguarding_Image_Conditional_Diffusion_Models_against_Adversarial_and_Backdoor_ICCV_2025_paper.html), **H. Yu**, X. Ding, J. Li, J. Wang, Y. Zhang, R. Wang, H. Ma, J. Chen.
 - `ICML 2026` [MEDUSA: Motion Elimination in Diffusion Using Spectral Attack](https://icml.cc/virtual/2026), **H. Yu**, et al.
 - `AAAI 2024` [Step Vulnerability Guided Mean Fluctuation Adversarial Attack against Conditional Diffusion Models](https://ojs.aaai.org/index.php/AAAI/article/view/28503), **H. Yu**, J. Chen, X. Ding, Y. Zhang, T. Tang, H. Ma.
