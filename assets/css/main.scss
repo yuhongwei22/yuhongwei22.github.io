@@ -55,5 +55,46 @@ a:hover { color: #1b3c71; }
   p, li { line-height: 1.6; }
 }
 
+.internship-list {
+  margin-left: 0;
+  padding-left: 0;
+  list-style: none;
+
+  li {
+    display: grid;
+    grid-template-columns: 42px minmax(0, 1fr);
+    gap: 0.75rem;
+    align-items: center;
+    margin: 0.85rem 0;
+  }
+}
+
+.company-logo {
+  display: inline-flex;
+  width: 38px;
+  height: 38px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  border: 1px solid var(--global-border-color);
+  border-radius: 9px;
+  background: #fff;
+
+  img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    object-fit: contain;
+  }
+}
+
+.company-logo--stepfun {
+  padding: 7px;
+  border-color: #1c1c1c;
+  background: #1c1c1c;
+}
+
 .sidebar p, .sidebar li,
 .masthead__inner-wrap { font-family: "Trebuchet MS", Helvetica, sans-serif; }

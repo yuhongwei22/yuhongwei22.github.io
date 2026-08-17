@@ -1,6 +1,8 @@
 main:
   - title: "个人简介"
     url: /#about
+  - title: "最新动态"
+    url: /#news
   - title: "教育经历"
     url: /#education
   - title: "实习经历"

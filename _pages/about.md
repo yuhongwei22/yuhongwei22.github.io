@@ -21,6 +21,19 @@ redirect_from:
 
 ---
 
+<span class="anchor" id="news"></span>
+
+# 🔥 最新动态
+
+- *2026.08*: 共同一作论文 [Decoupling Cross-Modality Manifold Discrepancy: Leveraging Visible Diffusion Priors for Infrared Super-Resolution](https://arxiv.org/abs/2607.21174) 被 **ACM MM 2026** 接收。
+- *2026.05*: 加入**京东零售 TGT 顶尖青年技术天才计划**,参与多模态图像视频生成大模型方向。
+- *2026.01*: 加入**阶跃 (StepFun) 基模组**,从事 GUI-Agent 后训练研究。
+- *2026*: 共同一作论文 **FactGuard** 与一作论文 **MEDUSA** 被 **ICML 2026** 接收。
+- *2025.09*: 加入**阿里巴巴 高德地图**,从事 AIGC 方向研究。
+- *2025*: 一作论文 **DADet** 被 **ICCV 2025** 接收为 **Spotlight**。
+
+---
+
 <span class="anchor" id="education"></span>
 
 # 📖 教育经历
@@ -36,9 +49,20 @@ redirect_from:
 
 # 💻 实习经历
 
-- *2026.05 - 至今*,[**京东零售**](https://www.jd.com/) TGT 顶尖青年技术天才计划,北京。多模态图像视频生成大模型方向。
-- *2026.01 - 2026.05*,[**阶跃 (StepFun)**](https://www.stepfun.com/) 基模组,北京。GUI-Agent 后训练。
-- *2025.09 - 2026.01*,[**阿里巴巴 高德地图**](https://www.amap.com/),北京。AIGC 算法。
+<ul class="internship-list">
+  <li>
+    <span class="company-logo"><img src="/images/companies/jd.png" alt="京东标志" width="48" height="48" loading="lazy"></span>
+    <span><em>2026.05 - 至今</em>,<a href="https://www.jd.com/"><strong>京东零售</strong></a> TGT 顶尖青年技术天才计划,北京。多模态图像视频生成大模型方向。</span>
+  </li>
+  <li>
+    <span class="company-logo company-logo--stepfun"><img src="/images/companies/stepfun.svg" alt="阶跃星辰标志" width="20" height="20" loading="lazy"></span>
+    <span><em>2026.01 - 2026.05</em>,<a href="https://www.stepfun.com/"><strong>阶跃 (StepFun)</strong></a> 基模组,北京。GUI-Agent 后训练。</span>
+  </li>
+  <li>
+    <span class="company-logo"><img src="/images/companies/amap.png" alt="高德地图标志" width="64" height="64" loading="lazy"></span>
+    <span><em>2025.09 - 2026.01</em>,<a href="https://www.amap.com/"><strong>阿里巴巴 高德地图</strong></a>,北京。AIGC 算法。</span>
+  </li>
+</ul>
 
 ---
 
