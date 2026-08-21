@@ -25,6 +25,7 @@ redirect_from:
 
 # 🔥 最新动态
 
+- *2026.08*: 共同一作论文 [Skill-Guided Continuation Distillation for GUI Agents](https://arxiv.org/abs/2606.18890) 被 **EMNLP 2026** 接收。
 - *2026.08*: 共同一作论文 [Decoupling Cross-Modality Manifold Discrepancy: Leveraging Visible Diffusion Priors for Infrared Super-Resolution](https://arxiv.org/abs/2607.21174) 被 **ACM MM 2026** 接收。
 - *2026.05*: 加入**京东零售 TGT 顶尖青年技术天才计划**,参与多模态图像视频生成大模型方向。
 - *2026.01*: 加入**阶跃 (StepFun) 基模组**,从事 GUI-Agent 后训练研究。
@@ -74,7 +75,7 @@ redirect_from:
 
 ## 大模型后训练与 Agent
 
-- `arXiv 2026` [Skill-Guided Continuation Distillation for GUI Agents](https://arxiv.org/abs/2606.18890), Z. Fan\*, **H. Yu\***, Y. Shen, H. Yan, G. Peng, T. Peng, Y. Zhang, X. Zhang, K. Tan, et al.
+- `EMNLP 2026` [Skill-Guided Continuation Distillation for GUI Agents](https://arxiv.org/abs/2606.18890), Z. Fan\*, **H. Yu\***, Y. Shen, H. Yan, G. Peng, T. Peng, Y. Zhang, X. Zhang, K. Tan, et al.
 - `ICML 2026` [FactGuard: Agentic Video Misinformation Detection via Reinforcement Learning](https://arxiv.org/abs/2510.06914), Z. Li\*, **H. Yu\***, H. Jiang, Q. Sheng, Y. Xu, B. Bi, Y. Li, Z. Yuan, Y. Cai, Z. Wang.
 
 ## AIGC
