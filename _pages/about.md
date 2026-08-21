@@ -29,7 +29,7 @@ redirect_from:
 - *2026.08*: 共同一作论文 [Decoupling Cross-Modality Manifold Discrepancy: Leveraging Visible Diffusion Priors for Infrared Super-Resolution](https://arxiv.org/abs/2607.21174) 被 **ACM MM 2026** 接收。
 - *2026.05*: 加入**京东零售 TGT 顶尖青年技术天才计划**,参与多模态图像视频生成大模型方向。
 - *2026.01*: 加入**阶跃 (StepFun) 基模组**,从事 GUI-Agent 后训练研究。
-- *2026*: 共同一作论文 **FactGuard** 与一作论文 **MEDUSA** 被 **ICML 2026** 接收。
+- *2026*: 一作论文 **MEDUSA** 与共同一作论文 **FactGuard** 被 **ICML 2026** 接收。
 - *2025.09*: 加入**阿里巴巴 高德地图**,从事 AIGC 方向研究。
 - *2025*: 一作论文 **DADet** 被 **ICCV 2025** 接收为 **Spotlight**。
 
