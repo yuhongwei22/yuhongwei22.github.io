@@ -4,7 +4,7 @@ site_theme               : "default"
 title                    : "余宏伟 - 个人主页"
 title_separator          : "-"
 name                     : &name "余宏伟"
-description              : &description "北京科技大学计算机博士在读 · AIGC / 可信人工智能 / Diffusion / Agent"
+description              : &description "余宏伟（Hongwei Yu）｜北京科技大学计算机科学与技术博士研究生｜Post-Training、MLLM、AIGC"
 url                      : https://yuhongwei22.github.io
 baseurl                  : ""
 repository               : "yuhongwei22/yuhongwei22.github.io"
@@ -23,7 +23,7 @@ author:
   # Academic websites
   academia         :
   arxiv            :
-  googlescholar    :     # TODO
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=cDidt64AAAAJ"
   inspire-hep      :
   impactstory      :
   orcid            :     # TODO
@@ -97,9 +97,11 @@ facebook:
 og_image                 :
 og_description           :
 social:
-  type                   :
-  name                   :
+  type                   : "Person"
+  name                   : "余宏伟（Hongwei Yu）"
   links:
+    - "https://scholar.google.com/citations?hl=zh-CN&user=cDidt64AAAAJ"
+    - "https://github.com/yuhongwei22"
 
 # Analytics
 analytics:
