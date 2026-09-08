@@ -13,12 +13,11 @@ lang: zh-CN
   <div class="academic-intro__copy">
     <h1><span class="academic-intro__icon" aria-hidden="true">👋</span> 个人简介</h1>
     <p>我目前在<a href="https://www.ustb.edu.cn/">北京科技大学</a>攻读计算机科学与技术博士学位（2022.09 至今），研究方向聚焦于<strong>大模型后训练、AIGC、可信人工智能、Diffusion 模型与 Agent</strong>。</p>
-    <p>迄今已有多篇论文发表于 ICCV（Spotlight）、ICML、AAAI、ICASSP 等国际会议，并曾获博士生国家奖学金与本科生国家奖学金。目前在京东零售 TGT 顶尖青年技术天才计划参与多模态图像视频生成大模型方向研究；此前曾在阶跃（StepFun）基模组和阿里巴巴高德 DreamX Team 实习。</p>
-    <p>我将于 <strong>2027 年 6 月毕业</strong>，目前正在寻找算法工程师全职工作机会。如有岗位或合作机会，欢迎通过邮件联系。</p>
+    <p>博士期间，我先后在<strong>阿里巴巴高德 DreamX Team</strong>、<strong>阶跃（StepFun）</strong>和<strong>京东零售</strong>实习，分别从事 AIGC 算法、GUI-Agent 后训练及多模态图像视频生成大模型研究。目前我在京东零售 <strong>TGT 顶尖青年技术天才计划</strong>参与视频生成方向研究，并积极寻找 <strong>2027 年秋季</strong>入职的全职机会，欢迎联系交流。</p>
     <p class="academic-links"><a href="mailto:yuhongwei22@xs.ustb.edu.cn">Email</a><a href="https://scholar.google.com/citations?hl=zh-CN&amp;user=cDidt64AAAAJ">Google Scholar</a><a href="https://github.com/yuhongwei22">GitHub</a></p>
   </div>
   <div class="academic-profile">
-    <img class="academic-avatar" src="{{ site.baseurl }}/images/person.jpg" alt="余宏伟" width="260" height="195">
+    <img class="academic-avatar" src="{{ site.baseurl }}/images/person.webp" alt="余宏伟" width="260" height="195" decoding="async">
     <p class="academic-profile__name"><strong>余宏伟</strong><span>Hongwei Yu</span></p>
   </div>
 </section>
@@ -26,7 +25,7 @@ lang: zh-CN
 <section class="academic-section" id="education">
   <h2><span class="academic-heading-icon" aria-hidden="true">📖</span> 教育经历</h2>
   <ul class="academic-list">
-    <li><time>2022.09 – 至今</time><span><strong>博士研究生</strong>，北京科技大学，计算机科学与技术，北京。获博士生国家奖学金。</span></li>
+    <li><time>2022.09 – 至今</time><span><strong>博士研究生</strong>，北京科技大学，计算机科学与技术，北京。获博士生国家奖学金。<br>博士生导师：<a href="https://scholar.google.com.hk/citations?user=A1gA9XIAAAAJ&amp;hl=zh-CN&amp;oi=ao">陈建生教授</a>。<br>所在团队：<a href="https://3dimagelab.com/">3D Image Lab</a>，团队负责人：<a href="https://scholar.google.com.hk/citations?user=32hwVLEAAAAJ&amp;hl=zh-CN&amp;oi=ao">马惠敏教授</a>。</span></li>
     <li><time>2018.09 – 2022.06</time><span><strong>学士</strong>，北京科技大学，计算机科学与技术，北京。获本科生国家奖学金。</span></li>
   </ul>
 </section>
@@ -59,94 +58,94 @@ lang: zh-CN
 
   <div class="academic-publications">
     <article class="academic-paper">
-      <a class="academic-paper__figure" href="https://arxiv.org/abs/2606.18890"><img src="{{ site.baseurl }}/images/papers/skill-guided-gui-agent.png" alt="Skill-Guided Continuation Distillation for GUI Agents" loading="lazy"></a>
+      <a class="academic-paper__figure" href="https://arxiv.org/abs/2606.18890"><img src="{{ site.baseurl }}/images/papers/skill-guided-gui-agent.webp" alt="Skill-Guided Continuation Distillation for GUI Agents" loading="lazy" decoding="async"></a>
       <div class="academic-paper__content">
         <p class="academic-venue">EMNLP 2026 <span>Co-first author</span></p>
         <p><a href="https://arxiv.org/abs/2606.18890">Skill-Guided Continuation Distillation for GUI Agents</a></p>
         <p>Z. Fan*, <strong>H. Yu*</strong>, Y. Shen, H. Yan, G. Peng, T. Peng, Y. Zhang, X. Zhang, K. Tan, et al.</p>
-        <p class="academic-paper__actions"><a href="https://arxiv.org/abs/2606.18890">Paper <span>↗</span></a></p>
+        <p class="academic-paper__actions"><a href="https://arxiv.org/pdf/2606.18890">Paper <span>↗</span></a></p>
       </div>
     </article>
     <article class="academic-paper">
-      <a class="academic-paper__figure" href="https://arxiv.org/abs/2510.06914"><img src="{{ site.baseurl }}/images/papers/factguard.png" alt="FactGuard" loading="lazy"></a>
+      <a class="academic-paper__figure" href="https://daoqingzha.github.io/medusa/"><img src="{{ site.baseurl }}/images/papers/medusa.webp" alt="MEDUSA" loading="lazy" decoding="async"></a>
+      <div class="academic-paper__content">
+        <p class="academic-venue">ICML 2026 <span>First author</span></p>
+        <p><a href="https://daoqingzha.github.io/medusa/">MEDUSA: Motion Elimination in Diffusion Using Spectral Attack</a></p>
+        <p><strong>H. Yu</strong>, et al.</p>
+        <p class="academic-paper__actions"><a href="https://daoqingzha.github.io/medusa/static/pdfs/paper.pdf">Paper <span>↗</span></a></p>
+      </div>
+    </article>
+    <article class="academic-paper">
+      <a class="academic-paper__figure" href="https://arxiv.org/abs/2602.22963"><img src="{{ site.baseurl }}/images/papers/factguard.webp" alt="FactGuard" loading="lazy" decoding="async"></a>
       <div class="academic-paper__content">
         <p class="academic-venue">ICML 2026 <span>Co-first author</span></p>
-        <p><a href="https://arxiv.org/abs/2510.06914">FactGuard: Agentic Video Misinformation Detection via Reinforcement Learning</a></p>
+        <p><a href="https://arxiv.org/abs/2602.22963">FactGuard: Agentic Video Misinformation Detection via Reinforcement Learning</a></p>
         <p>Z. Li*, <strong>H. Yu*</strong>, H. Jiang, Q. Sheng, Y. Xu, B. Bi, Y. Li, Z. Yuan, Y. Cai, Z. Wang.</p>
-        <p class="academic-paper__actions"><a href="https://arxiv.org/abs/2510.06914">Paper <span>↗</span></a></p>
+        <p class="academic-paper__actions"><a href="https://arxiv.org/pdf/2602.22963">Paper <span>↗</span></a></p>
       </div>
     </article>
     <article class="academic-paper">
-      <a class="academic-paper__figure" href="https://arxiv.org/abs/2607.21174"><img src="{{ site.baseurl }}/images/papers/cross-modality-ir.png" alt="Decoupling Cross-Modality Manifold Discrepancy" loading="lazy"></a>
+      <a class="academic-paper__figure" href="https://arxiv.org/abs/2607.21174"><img src="{{ site.baseurl }}/images/papers/cross-modality-ir.webp" alt="Decoupling Cross-Modality Manifold Discrepancy" loading="lazy" decoding="async"></a>
       <div class="academic-paper__content">
         <p class="academic-venue">ACM MM 2026 <span>Co-first author</span></p>
         <p><a href="https://arxiv.org/abs/2607.21174">Decoupling Cross-Modality Manifold Discrepancy: Leveraging Visible Diffusion Priors for Infrared Super-Resolution</a></p>
         <p>Y. Hua*, <strong>H. Yu*</strong>, J. Li, Q. Liu, H. Ma, J. Chen.</p>
-        <p class="academic-paper__actions"><a href="https://arxiv.org/abs/2607.21174">Paper <span>↗</span></a></p>
+        <p class="academic-paper__actions"><a href="https://arxiv.org/pdf/2607.21174">Paper <span>↗</span></a></p>
       </div>
     </article>
     <article class="academic-paper">
-      <a class="academic-paper__figure" href="https://openaccess.thecvf.com/content/ICCV2025/html/Yu_DADet_Safeguarding_Image_Conditional_Diffusion_Models_against_Adversarial_and_Backdoor_Attacks_via_Diffusion_Anomaly_Detection_ICCV_2025_paper.html"><img src="{{ site.baseurl }}/images/papers/dadet.png" alt="DADet" loading="lazy"></a>
+      <a class="academic-paper__figure" href="https://openaccess.thecvf.com/content/ICCV2025/html/Yu_DADet_Safeguarding_Image_Conditional_Diffusion_Models_against_Adversarial_and_Backdoor_Attacks_via_Diffusion_Anomaly_Detection_ICCV_2025_paper.html"><img src="{{ site.baseurl }}/images/papers/dadet.webp" alt="DADet" loading="lazy" decoding="async"></a>
       <div class="academic-paper__content">
         <p class="academic-venue">ICCV 2025 <span>Spotlight · First author</span></p>
         <p><a href="https://openaccess.thecvf.com/content/ICCV2025/html/Yu_DADet_Safeguarding_Image_Conditional_Diffusion_Models_against_Adversarial_and_Backdoor_Attacks_via_Diffusion_Anomaly_Detection_ICCV_2025_paper.html">DADet: Safeguarding Image Conditional Diffusion Models against Adversarial and Backdoor Attacks via Diffusion Anomaly Detection</a></p>
         <p><strong>H. Yu</strong>, X. Ding, J. Li, J. Wang, Y. Zhang, R. Wang, H. Ma, J. Chen.</p>
-        <p class="academic-paper__actions"><a href="https://openaccess.thecvf.com/content/ICCV2025/html/Yu_DADet_Safeguarding_Image_Conditional_Diffusion_Models_against_Adversarial_and_Backdoor_Attacks_via_Diffusion_Anomaly_Detection_ICCV_2025_paper.html">Paper <span>↗</span></a></p>
+        <p class="academic-paper__actions"><a href="https://openaccess.thecvf.com/content/ICCV2025/papers/Yu_DADet_Safeguarding_Image_Conditional_Diffusion_Models_against_Adversarial_and_Backdoor_ICCV_2025_paper.pdf">Paper <span>↗</span></a></p>
       </div>
     </article>
     <article class="academic-paper">
-      <a class="academic-paper__figure" href="https://icml.cc/virtual/2026"><img src="{{ site.baseurl }}/images/papers/medusa.png" alt="MEDUSA" loading="lazy"></a>
-      <div class="academic-paper__content">
-        <p class="academic-venue">ICML 2026 <span>First author</span></p>
-        <p><a href="https://icml.cc/virtual/2026">MEDUSA: Motion Elimination in Diffusion Using Spectral Attack</a></p>
-        <p><strong>H. Yu</strong>, et al.</p>
-        <p class="academic-paper__actions"><a href="https://icml.cc/virtual/2026">Paper <span>↗</span></a></p>
-      </div>
-    </article>
-    <article class="academic-paper">
-      <a class="academic-paper__figure" href="https://ojs.aaai.org/index.php/AAAI/article/view/32492"><img src="{{ site.baseurl }}/images/papers/a2rnet.png" alt="A²RNet" loading="lazy"></a>
+      <a class="academic-paper__figure" href="https://ojs.aaai.org/index.php/AAAI/article/view/32504"><img src="{{ site.baseurl }}/images/papers/a2rnet.webp" alt="A²RNet" loading="lazy" decoding="async"></a>
       <div class="academic-paper__content">
         <p class="academic-venue">AAAI 2025 <span>Co-first author</span></p>
-        <p><a href="https://ojs.aaai.org/index.php/AAAI/article/view/32492">A²RNet: Adversarial Attack Resilient Network for Robust Infrared and Visible Image Fusion</a></p>
+        <p><a href="https://ojs.aaai.org/index.php/AAAI/article/view/32504">A²RNet: Adversarial Attack Resilient Network for Robust Infrared and Visible Image Fusion</a></p>
         <p>J. Li*, <strong>H. Yu*</strong>, J. Chen, X. Ding, J. Wang, J. Liu, B. Zou, H. Ma.</p>
-        <p class="academic-paper__actions"><a href="https://ojs.aaai.org/index.php/AAAI/article/view/32492">Paper <span>↗</span></a></p>
+        <p class="academic-paper__actions"><a href="https://ojs.aaai.org/index.php/AAAI/article/download/32504/34659">Paper <span>↗</span></a></p>
       </div>
     </article>
     <article class="academic-paper">
-      <a class="academic-paper__figure" href="https://openaccess.thecvf.com/content/ICCV2025/html/Ding_Kaleidoscopic_Background_Attack_Disrupting_Pose_Estimation_with_Multi-Fold_Radial_Symmetry_Textures_ICCV_2025_paper.html"><img src="{{ site.baseurl }}/images/papers/kaleidoscopic-background-attack.png" alt="Kaleidoscopic Background Attack" loading="lazy"></a>
+      <a class="academic-paper__figure" href="https://openaccess.thecvf.com/content/ICCV2025/html/Ding_Kaleidoscopic_Background_Attack_Disrupting_Pose_Estimation_with_Multi-Fold_Radial_Symmetry_Textures_ICCV_2025_paper.html"><img src="{{ site.baseurl }}/images/papers/kaleidoscopic-background-attack.webp" alt="Kaleidoscopic Background Attack" loading="lazy" decoding="async"></a>
       <div class="academic-paper__content">
         <p class="academic-venue">ICCV 2025 <span>Spotlight · Co-first author</span></p>
         <p><a href="https://openaccess.thecvf.com/content/ICCV2025/html/Ding_Kaleidoscopic_Background_Attack_Disrupting_Pose_Estimation_with_Multi-Fold_Radial_Symmetry_Textures_ICCV_2025_paper.html">Kaleidoscopic Background Attack: Disrupting Pose Estimation with Multi-Fold Radial Symmetry Textures</a></p>
         <p>X. Ding*, <strong>H. Yu*</strong>, J. Li, F. Li, Y. Shang, B. Zou, H. Ma, J. Chen.</p>
-        <p class="academic-paper__actions"><a href="https://openaccess.thecvf.com/content/ICCV2025/html/Ding_Kaleidoscopic_Background_Attack_Disrupting_Pose_Estimation_with_Multi-Fold_Radial_Symmetry_Textures_ICCV_2025_paper.html">Paper <span>↗</span></a></p>
+        <p class="academic-paper__actions"><a href="https://openaccess.thecvf.com/content/ICCV2025/papers/Ding_Kaleidoscopic_Background_Attack_Disrupting_Pose_Estimation_with_Multi-Fold_Radial_Symmetry_ICCV_2025_paper.pdf">Paper <span>↗</span></a></p>
       </div>
     </article>
     <article class="academic-paper">
-      <a class="academic-paper__figure" href="https://ojs.aaai.org/index.php/AAAI/article/view/28503"><img src="{{ site.baseurl }}/images/papers/step-vulnerability.png" alt="Step Vulnerability Guided Mean Fluctuation Adversarial Attack" loading="lazy"></a>
+      <a class="academic-paper__figure" href="https://ojs.aaai.org/index.php/AAAI/article/view/28503"><img src="{{ site.baseurl }}/images/papers/step-vulnerability.webp" alt="Step Vulnerability Guided Mean Fluctuation Adversarial Attack" loading="lazy" decoding="async"></a>
       <div class="academic-paper__content">
         <p class="academic-venue">AAAI 2024 <span>First author</span></p>
         <p><a href="https://ojs.aaai.org/index.php/AAAI/article/view/28503">Step Vulnerability Guided Mean Fluctuation Adversarial Attack against Conditional Diffusion Models</a></p>
         <p><strong>H. Yu</strong>, J. Chen, X. Ding, Y. Zhang, T. Tang, H. Ma.</p>
-        <p class="academic-paper__actions"><a href="https://ojs.aaai.org/index.php/AAAI/article/view/28503">Paper <span>↗</span></a></p>
+        <p class="academic-paper__actions"><a href="https://ojs.aaai.org/index.php/AAAI/article/download/28503/28980">Paper <span>↗</span></a></p>
       </div>
     </article>
     <article class="academic-paper">
-      <a class="academic-paper__figure" href="https://ieeexplore.ieee.org/document/10095783"><img src="{{ site.baseurl }}/images/papers/universal-patch-attacks.png" alt="Defending against Universal Patch Attacks by Restricting Token Attention in Vision Transformers" loading="lazy"></a>
+      <a class="academic-paper__figure" href="https://ieeexplore.ieee.org/document/10096862/"><img src="{{ site.baseurl }}/images/papers/universal-patch-attacks.webp" alt="Defending against Universal Patch Attacks by Restricting Token Attention in Vision Transformers" loading="lazy" decoding="async"></a>
       <div class="academic-paper__content">
         <p class="academic-venue">ICASSP 2023 <span>First author</span></p>
-        <p><a href="https://ieeexplore.ieee.org/document/10095783">Defending against Universal Patch Attacks by Restricting Token Attention in Vision Transformers</a></p>
+        <p><a href="https://ieeexplore.ieee.org/document/10096862/">Defending against Universal Patch Attacks by Restricting Token Attention in Vision Transformers</a></p>
         <p><strong>H. Yu</strong>, J. Chen, H. Ma, C. Yu, X. Ding.</p>
-        <p class="academic-paper__actions"><a href="https://ieeexplore.ieee.org/document/10095783">Paper <span>↗</span></a></p>
+        <p class="academic-paper__actions"><a href="https://ieeexplore.ieee.org/document/10096862/">Paper <span>↗</span></a></p>
       </div>
     </article>
   </div>
 
   <h3>其他论文</h3>
   <div class="academic-publications academic-publications--compact">
-    <article><p><span class="academic-venue">IEEE TMM 2026</span> <a href="https://ieeexplore.ieee.org/document/10891131">Multi-Scale Spatial Channel Joint Representation for General Multi-Modality Image Fusion With Self-Supervision</a>，J. Li, J. Chen, J. Liu, <strong>H. Yu</strong>, X. Ding, H. Ma.</p></article>
-    <article><p><span class="academic-venue">ICME 2024</span> <a href="https://ieeexplore.ieee.org/document/10687554">Invisible Pedestrians: Synthesizing Adversarial Clothing Textures To Evade Industrial Camera-Based 3D Detection</a>，X. Ding, <strong>H. Yu</strong>, J. Chen, J. Wang, J. Du, H. Ma.</p></article>
-    <article><p><span class="academic-venue">ICASSP 2024</span> <a href="https://ieeexplore.ieee.org/document/10446605">Enhancing Adversarial Transferability in Object Detection with Bidirectional Feature Distortion</a>，X. Ding, J. Chen, <strong>H. Yu</strong>, Y. Shang, B. Zou, H. Ma.</p></article>
-    <article><p><span class="academic-venue">AAAI 2024</span> <a href="https://ojs.aaai.org/index.php/AAAI/article/view/27921">Transferable Adversarial Attacks for Object Detection Using Object-Aware Significant Feature Distortion</a>，X. Ding, J. Chen, <strong>H. Yu</strong>, Y. Shang, Y. Qin, H. Ma.</p></article>
+    <article><p><span class="academic-venue">IEEE TMM 2026</span> <a href="https://ieeexplore.ieee.org/document/11329495">Multi-Scale Spatial Channel Joint Representation for General Multi-Modality Image Fusion With Self-Supervision</a>，J. Li, J. Chen, J. Liu, <strong>H. Yu</strong>, X. Ding, H. Ma.</p></article>
+    <article><p><span class="academic-venue">ICME 2024</span> <a href="https://ieeexplore.ieee.org/document/10687467">Invisible Pedestrians: Synthesizing Adversarial Clothing Textures To Evade Industrial Camera-Based 3D Detection</a>，X. Ding, <strong>H. Yu</strong>, J. Chen, J. Wang, J. Du, H. Ma.</p></article>
+    <article><p><span class="academic-venue">ICASSP 2024</span> <a href="https://ieeexplore.ieee.org/document/10447293">Enhancing Adversarial Transferability in Object Detection with Bidirectional Feature Distortion</a>，X. Ding, J. Chen, <strong>H. Yu</strong>, Y. Shang, B. Zou, H. Ma.</p></article>
+    <article><p><span class="academic-venue">AAAI 2024</span> <a href="https://ojs.aaai.org/index.php/AAAI/article/view/27920">Transferable Adversarial Attacks for Object Detection Using Object-Aware Significant Feature Distortion</a>，X. Ding, J. Chen, <strong>H. Yu</strong>, Y. Shang, Y. Qin, H. Ma.</p></article>
     <article><p><span class="academic-venue">KBS 2024</span> <a href="https://www.sciencedirect.com/science/article/abs/pii/S0950705124000364">Image Paragraph Captioning with Topic Clustering and Topic Shift Prediction</a>，T. Tang, J. Chen, Y. Huang, H. Ma, Y. Zhang, <strong>H. Yu</strong>.</p></article>
   </div>
   <p class="academic-scholar">更多论文请见 <a href="https://scholar.google.com/citations?hl=zh-CN&amp;user=cDidt64AAAAJ">Google Scholar</a>。</p>
