@@ -11,8 +11,8 @@ redirect_from:
 <section class="academic-intro" id="about">
   <div class="academic-intro__copy">
     <h1><span class="academic-intro__icon" aria-hidden="true">👋</span> About Me</h1>
-    <p>I am currently a Ph.D. candidate in Computer Science and Technology at <a href="https://www.ustb.edu.cn/">University of Science and Technology Beijing (USTB)</a> (Sep. 2022–present). My research focuses on <strong>large-model post-training, AIGC, trustworthy AI, diffusion models, and agents</strong>.</p>
-    <p>During my Ph.D., I have interned at <strong>DreamX Team, Alibaba Amap</strong>, <strong>StepFun</strong>, and <strong>JD Retail</strong>, working on AIGC algorithms, GUI-agent post-training, and multimodal image and video generation foundation models, respectively. I am currently with JD Retail's <strong>TGT Program</strong>, focusing on video generation, and am actively seeking full-time opportunities starting in <strong>Fall 2027</strong>; please feel free to contact me.</p>
+    <p>I am currently a Ph.D. candidate in Computer Science and Technology at <a href="https://www.ustb.edu.cn/">University of Science and Technology Beijing (USTB)</a> (Sep. 2022–present). My research focuses on <strong>Post-Training, MLLM, and AIGC</strong>.</p>
+    <p>During my Ph.D., I interned at <strong>DreamX Team, Alibaba Amap</strong>, <strong>StepFun</strong>, and <strong>JD Retail</strong>. I am currently with JD Retail's <strong>TGT Program</strong>, focusing on video generation and seeking full-time opportunities starting in <strong>Fall 2027</strong>; please feel free to contact me.</p>
     <p class="academic-links"><a href="mailto:yuhongwei22@xs.ustb.edu.cn">Email</a><a href="https://scholar.google.com/citations?hl=zh-CN&amp;user=cDidt64AAAAJ">Google Scholar</a><a href="https://github.com/yuhongwei22">GitHub</a></p>
   </div>
   <div class="academic-profile">
