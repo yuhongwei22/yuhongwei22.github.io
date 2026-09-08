@@ -282,13 +282,14 @@ body.academic-home { min-height:100vh; margin:0; padding:0; color:#333; backgrou
 .academic-nav .academic-language-switch { margin-right:auto; padding:4px 9px; color:#337ab7; border:1px solid #b9d0e4; border-radius:4px; font-weight:600; line-height:1.25; }
 .academic-nav .academic-language-switch:hover { color:#245580; border-color:#82b1d4; background:#f6faff; }
 
-.academic-intro { display:grid; grid-template-columns:minmax(0,1fr) 270px; align-items:start; gap:42px; padding:42px 0 30px; }
+.academic-intro { padding:42px 0 30px; }
 .academic-intro__copy { min-width:0; }
+.academic-intro__copy::after { display:table; clear:both; content:""; }
 .academic-intro h1 { margin:0 0 17px; color:#333; font-size:30px; font-weight:550; letter-spacing:-.03em; line-height:1.2; }
 .academic-intro__icon { margin-right:4px; font-size:.82em; vertical-align:2px; }
 .academic-intro p { margin:0 0 12px; }
 .academic-intro strong { color:#222; }
-.academic-profile { width:260px; justify-self:end; }
+.academic-profile { float:right; width:260px; margin:0 0 12px 42px; }
 .academic-avatar { display:block; width:260px; height:195px; margin:0; border:1px solid #ddd; border-radius:6px; object-fit:cover; object-position:center center; box-shadow:0 2px 6px rgba(0,0,0,.08); }
 .academic-profile__name { display:flex; align-items:baseline; gap:8px; margin:9px 0 0; color:#333; }
 .academic-profile__name strong { font-size:17px; font-weight:650; }
@@ -329,9 +330,9 @@ body.academic-home { min-height:100vh; margin:0; padding:0; color:#333; backgrou
   .academic-nav nav { width:100%; min-width:0; min-height:0; justify-content:flex-start; flex-wrap:wrap; gap:6px 16px; padding:9px 0; }
   .academic-nav a { font-size:13px; }
   .academic-nav .academic-language-switch { margin-right:0; }
-  .academic-intro { grid-template-columns:minmax(0,1fr) 118px; gap:16px; padding-top:26px; }
+  .academic-intro { padding-top:26px; }
   .academic-intro h1 { margin-bottom:13px; font-size:26px; }
-  .academic-profile { width:116px; }
+  .academic-profile { width:116px; margin:0 0 10px 16px; }
   .academic-avatar { width:116px; height:87px; border-radius:5px; }
   .academic-profile__name { display:block; margin-top:6px; line-height:1.25; }
   .academic-profile__name strong,.academic-profile__name span { display:block; font-size:12px; }
@@ -344,9 +345,8 @@ body.academic-home { min-height:100vh; margin:0; padding:0; color:#333; backgrou
 @media (max-width:420px) {
   .academic-nav nav { gap:6px 13px; }
   .academic-nav a { font-size:12px; }
-  .academic-intro { grid-template-columns:minmax(0,1fr) 104px; gap:12px; }
   .academic-intro h1 { font-size:25px; }
-  .academic-profile { width:102px; }
+  .academic-profile { width:102px; margin-left:12px; }
   .academic-avatar { width:102px; height:77px; }
   .academic-profile__name strong,.academic-profile__name span { font-size:11px; }
 }

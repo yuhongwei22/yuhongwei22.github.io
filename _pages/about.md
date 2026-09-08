@@ -12,13 +12,13 @@ lang: zh-CN
 <section class="academic-intro" id="about">
   <div class="academic-intro__copy">
     <h1><span class="academic-intro__icon" aria-hidden="true">👋</span> 个人简介</h1>
+    <div class="academic-profile">
+      <img class="academic-avatar" src="{{ site.baseurl }}/images/person.webp" alt="余宏伟" width="260" height="195" decoding="async">
+      <p class="academic-profile__name"><strong>余宏伟</strong><span>Hongwei Yu</span></p>
+    </div>
     <p>我目前在<a href="https://www.ustb.edu.cn/">北京科技大学</a>攻读计算机科学与技术博士学位（2022.09 至今），研究方向聚焦于<strong>Post-Training、MLLM 和 AIGC</strong>。</p>
     <p>博士期间，我曾在<strong>阿里巴巴高德 DreamX Team</strong>、<strong>阶跃（StepFun）</strong>和<strong>京东零售</strong>实习。目前我在京东零售 <strong>TGT 顶尖青年技术天才计划</strong>参与视频生成研究，并积极寻找 <strong>2027 年秋季</strong>入职的全职机会，欢迎联系交流。</p>
     <p class="academic-links"><a href="mailto:yuhongwei22@xs.ustb.edu.cn">Email</a><a href="https://scholar.google.com/citations?hl=zh-CN&amp;user=cDidt64AAAAJ">Google Scholar</a><a href="https://github.com/yuhongwei22">GitHub</a></p>
-  </div>
-  <div class="academic-profile">
-    <img class="academic-avatar" src="{{ site.baseurl }}/images/person.webp" alt="余宏伟" width="260" height="195" decoding="async">
-    <p class="academic-profile__name"><strong>余宏伟</strong><span>Hongwei Yu</span></p>
   </div>
 </section>
 
