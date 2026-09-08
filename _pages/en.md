@@ -25,7 +25,7 @@ redirect_from:
   <h2><span class="academic-heading-icon" aria-hidden="true">📖</span> Education</h2>
   <ul class="academic-list">
     <li><time>Sep. 2022 – Present</time><span><strong>Ph.D. candidate</strong>, University of Science and Technology Beijing, Computer Science and Technology, Beijing.<br><strong>Recipient of the National Scholarship for Doctoral Students.</strong><br>Ph.D. advisor: <a href="https://scholar.google.com.hk/citations?user=A1gA9XIAAAAJ&amp;hl=zh-CN&amp;oi=ao">Prof. Jiansheng Chen</a>.<br>Research group: <a href="https://3dimagelab.com/">3D Image Lab</a>, led by <a href="https://scholar.google.com.hk/citations?user=32hwVLEAAAAJ&amp;hl=zh-CN&amp;oi=ao">Prof. Huimin Ma</a>.</span></li>
-    <li><time>Sep. 2018 – Jun. 2022</time><span><strong>B.Eng.</strong>, University of Science and Technology Beijing, Computer Science and Technology, Beijing. Recipient of the National Scholarship for Undergraduate Students.</span></li>
+    <li><time>Sep. 2018 – Jun. 2022</time><span><strong>B.Eng.</strong>, University of Science and Technology Beijing, Computer Science and Technology, Beijing.<br><strong>Recipient of the National Scholarship for Undergraduate Students.</strong></span></li>
   </ul>
 </section>
 
