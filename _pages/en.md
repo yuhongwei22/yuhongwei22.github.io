@@ -11,11 +11,10 @@ redirect_from:
 <section class="academic-intro" id="about">
   <div class="academic-intro__copy">
     <h1><span class="academic-intro__icon" aria-hidden="true">👋</span> About Me</h1>
-    <div class="academic-profile">
+    <p><span class="academic-profile">
       <img class="academic-avatar" src="{{ site.baseurl }}/images/person.webp" alt="Hongwei Yu" width="260" height="195" decoding="async">
-      <p class="academic-profile__name"><strong>余宏伟</strong><span>Hongwei Yu</span></p>
-    </div>
-    <p>I am currently a Ph.D. candidate in Computer Science and Technology at <a href="https://www.ustb.edu.cn/">University of Science and Technology Beijing (USTB)</a> (Sep. 2022–present). My research focuses on <strong>Post-Training, MLLM, and AIGC</strong>.</p>
+      <span class="academic-profile__name"><strong>余宏伟</strong><span>Hongwei Yu</span></span>
+    </span>I am currently a Ph.D. candidate in Computer Science and Technology at <a href="https://www.ustb.edu.cn/">University of Science and Technology Beijing (USTB)</a> (Sep. 2022–present). My research focuses on <strong>Post-Training, MLLM, and AIGC</strong>.</p>
     <p>During my Ph.D., I interned at <strong>DreamX Team, Alibaba Amap</strong>, <strong>StepFun</strong>, and <strong>JD Retail</strong>. I am currently with JD Retail's <strong>TGT Program</strong>, focusing on video generation and seeking full-time opportunities starting in <strong>Fall 2027</strong>; please feel free to contact me.</p>
     <p class="academic-links"><a href="mailto:yuhongwei22@xs.ustb.edu.cn">Email</a><a href="https://scholar.google.com/citations?hl=zh-CN&amp;user=cDidt64AAAAJ">Google Scholar</a><a href="https://github.com/yuhongwei22">GitHub</a></p>
   </div>

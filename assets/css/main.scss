@@ -289,7 +289,7 @@ body.academic-home { min-height:100vh; margin:0; padding:0; color:#333; backgrou
 .academic-intro__icon { margin-right:4px; font-size:.82em; vertical-align:2px; }
 .academic-intro p { margin:0 0 12px; }
 .academic-intro strong { color:#222; }
-.academic-profile { float:right; width:260px; margin:0 0 12px 42px; }
+.academic-profile { display:block; float:right; width:260px; margin:0 0 12px 42px; }
 .academic-avatar { display:block; width:260px; height:195px; margin:0; border:1px solid #ddd; border-radius:6px; object-fit:cover; object-position:center center; box-shadow:0 2px 6px rgba(0,0,0,.08); }
 .academic-profile__name { display:flex; align-items:baseline; gap:8px; margin:9px 0 0; color:#333; }
 .academic-profile__name strong { font-size:17px; font-weight:650; }
