@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Hongwei Yu"
-seo_title: "Hongwei Yu (余宏伟) - Personal Homepage"
+seo_title: "Yu Hongwei's Homepage"
 description: "Hongwei Yu (余宏伟) is a Ph.D. candidate at the University of Science and Technology Beijing, focusing on Post-Training, MLLM, and AIGC."
 layout: home
 author_profile: false
