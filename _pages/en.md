@@ -1,61 +1,60 @@
 ---
-permalink: /zh/
-title: "余宏伟 · Hongwei Yu"
+permalink: /
+title: "Hongwei Yu"
 layout: home
 author_profile: false
+lang: en
 redirect_from:
-  - /about/
-  - /about.html
-lang: zh-CN
+  - /en/
 ---
 
 <section class="academic-intro" id="about">
   <div class="academic-intro__copy">
-    <h1><span class="academic-intro__icon" aria-hidden="true">👋</span> 个人简介</h1>
-    <p>我目前在<a href="https://www.ustb.edu.cn/">北京科技大学</a>攻读计算机科学与技术博士学位（2022.09 至今），研究方向聚焦于<strong>大模型后训练、AIGC、可信人工智能、Diffusion 模型与 Agent</strong>。</p>
-    <p>迄今已有多篇论文发表于 ICCV（Spotlight）、ICML、AAAI、ICASSP 等国际会议，并曾获博士生国家奖学金与本科生国家奖学金。目前在京东零售 TGT 顶尖青年技术天才计划参与多模态图像视频生成大模型方向研究；此前曾在阶跃（StepFun）基模组和阿里巴巴高德 DreamX Team 实习。</p>
-    <p>我将于 <strong>2027 年 6 月毕业</strong>，目前正在寻找算法工程师全职工作机会。如有岗位或合作机会，欢迎通过邮件联系。</p>
+    <h1><span class="academic-intro__icon" aria-hidden="true">👋</span> About Me</h1>
+    <p>I am currently a Ph.D. candidate in Computer Science and Technology at <a href="https://www.ustb.edu.cn/">University of Science and Technology Beijing (USTB)</a> (Sep. 2022–present). My research focuses on <strong>large-model post-training, AIGC, trustworthy AI, diffusion models, and agents</strong>.</p>
+    <p>I have published papers at leading venues including ICCV (Spotlight), ICML, AAAI, and ICASSP, and have received the National Scholarship for Doctoral Students and the National Scholarship for Undergraduate Students. I am currently conducting research on multimodal image and video generation at JD Retail's TGT Program. Previously, I worked on GUI-agent post-training at StepFun and AIGC research at the DreamX Team, Alibaba Amap.</p>
+    <p>I expect to graduate in <strong>June 2027</strong> and am actively seeking full-time algorithm engineer opportunities. Please feel free to contact me by email for positions or collaborations.</p>
     <p class="academic-links"><a href="mailto:yuhongwei22@xs.ustb.edu.cn">Email</a><a href="https://scholar.google.com/citations?hl=zh-CN&amp;user=cDidt64AAAAJ">Google Scholar</a><a href="https://github.com/yuhongwei22">GitHub</a></p>
   </div>
   <div class="academic-profile">
-    <img class="academic-avatar" src="{{ site.baseurl }}/images/person.jpg" alt="余宏伟" width="260" height="195">
+    <img class="academic-avatar" src="{{ site.baseurl }}/images/person.jpg" alt="Hongwei Yu" width="260" height="195">
     <p class="academic-profile__name"><strong>余宏伟</strong><span>Hongwei Yu</span></p>
   </div>
 </section>
 
 <section class="academic-section" id="education">
-  <h2><span class="academic-heading-icon" aria-hidden="true">📖</span> 教育经历</h2>
+  <h2><span class="academic-heading-icon" aria-hidden="true">📖</span> Education</h2>
   <ul class="academic-list">
-    <li><time>2022.09 – 至今</time><span><strong>博士研究生</strong>，北京科技大学，计算机科学与技术，北京。获博士生国家奖学金。</span></li>
-    <li><time>2018.09 – 2022.06</time><span><strong>学士</strong>，北京科技大学，计算机科学与技术，北京。获本科生国家奖学金。</span></li>
+    <li><time>Sep. 2022 – Present</time><span><strong>Ph.D. candidate</strong>, University of Science and Technology Beijing, Computer Science and Technology, Beijing. Recipient of the National Scholarship for Doctoral Students.</span></li>
+    <li><time>Sep. 2018 – Jun. 2022</time><span><strong>B.Eng.</strong>, University of Science and Technology Beijing, Computer Science and Technology, Beijing. Recipient of the National Scholarship for Undergraduate Students.</span></li>
   </ul>
 </section>
 
 <section class="academic-section" id="news">
-  <h2><span class="academic-heading-icon" aria-hidden="true">🔥</span> 最新动态</h2>
+  <h2><span class="academic-heading-icon" aria-hidden="true">🔥</span> News</h2>
   <ul class="academic-list academic-list--news">
-    <li><time>2026.08</time><span>共同一作论文 <a href="https://arxiv.org/abs/2606.18890">Skill-Guided Continuation Distillation for GUI Agents</a> 被 <strong>EMNLP 2026</strong> 接收。</span></li>
-    <li><time>2026.08</time><span>共同一作论文 <a href="https://arxiv.org/abs/2607.21174">Decoupling Cross-Modality Manifold Discrepancy: Leveraging Visible Diffusion Priors for Infrared Super-Resolution</a> 被 <strong>ACM MM 2026</strong> 接收。</span></li>
-    <li><time>2026.05</time><span>加入<strong>京东零售 TGT 顶尖青年技术天才计划</strong>，参与多模态图像视频生成大模型方向研究。</span></li>
-    <li><time>2026.01</time><span>加入<strong>阶跃（StepFun）</strong>基模组，从事 GUI-Agent 后训练研究。</span></li>
-    <li><time>2026</time><span>一作论文 <strong>MEDUSA</strong> 与共同一作论文 <strong>FactGuard</strong> 被 <strong>ICML 2026</strong> 接收。</span></li>
-    <li><time>2025.09</time><span>加入<strong>阿里巴巴高德 DreamX Team</strong>，从事 AIGC 方向研究。</span></li>
-    <li><time>2025</time><span>一作论文 <strong>DADet</strong> 被 <strong>ICCV 2025</strong> 接收为 <strong>Spotlight</strong>。</span></li>
+    <li><time>Aug. 2026</time><span>Our co-first-authored paper <a href="https://arxiv.org/abs/2606.18890">Skill-Guided Continuation Distillation for GUI Agents</a> was accepted to <strong>EMNLP 2026</strong>.</span></li>
+    <li><time>Aug. 2026</time><span>Our co-first-authored paper <a href="https://arxiv.org/abs/2607.21174">Decoupling Cross-Modality Manifold Discrepancy: Leveraging Visible Diffusion Priors for Infrared Super-Resolution</a> was accepted to <strong>ACM MM 2026</strong>.</span></li>
+    <li><time>May 2026</time><span>Joined <strong>JD Retail's TGT Program</strong> to work on multimodal image and video generation foundation models.</span></li>
+    <li><time>Jan. 2026</time><span>Joined the Foundation Model Group at <strong>StepFun</strong> to work on GUI-agent post-training.</span></li>
+    <li><time>2026</time><span>My first-authored paper <strong>MEDUSA</strong> and co-first-authored paper <strong>FactGuard</strong> were accepted to <strong>ICML 2026</strong>.</span></li>
+    <li><time>Sep. 2025</time><span>Joined the <strong>DreamX Team, Alibaba Amap</strong> to work on AIGC research.</span></li>
+    <li><time>2025</time><span>My first-authored paper <strong>DADet</strong> was accepted as a <strong>Spotlight</strong> at <strong>ICCV 2025</strong>.</span></li>
   </ul>
 </section>
 
 <section class="academic-section" id="experience">
-  <h2><span class="academic-heading-icon" aria-hidden="true">💻</span> 实习经历</h2>
+  <h2><span class="academic-heading-icon" aria-hidden="true">💻</span> Work / Internships</h2>
   <ul class="academic-list">
-    <li><time>2026.05 – 至今</time><span><img class="academic-company-logo" src="{{ site.baseurl }}/images/companies/jd-joy.png" alt="京东" loading="lazy"><a href="https://www.jd.com/"><strong>京东零售</strong></a>，TGT 顶尖青年技术天才计划，北京。多模态图像视频生成大模型方向。</span></li>
-    <li><time>2026.01 – 2026.05</time><span><img class="academic-company-logo academic-company-logo--dark" src="{{ site.baseurl }}/images/companies/stepfun.svg" alt="阶跃" loading="lazy"><a href="https://www.stepfun.com/"><strong>阶跃（StepFun）</strong></a>，基模组，北京。GUI-Agent 后训练研究。</span></li>
-    <li><time>2025.09 – 2026.01</time><span><img class="academic-company-logo" src="{{ site.baseurl }}/images/companies/amap.png" alt="DreamX Team" loading="lazy"><a href="https://github.com/AMAP-ML"><strong>阿里巴巴高德 DreamX Team</strong></a>，北京。AIGC 算法。</span></li>
+    <li><time>May 2026 – Present</time><span><img class="academic-company-logo" src="{{ site.baseurl }}/images/companies/jd-joy.png" alt="JD" loading="lazy"><a href="https://www.jd.com/"><strong>JD Retail</strong></a>, TGT Program, Beijing. Multimodal image and video generation foundation models.</span></li>
+    <li><time>Jan. 2026 – May 2026</time><span><img class="academic-company-logo academic-company-logo--dark" src="{{ site.baseurl }}/images/companies/stepfun.svg" alt="StepFun" loading="lazy"><a href="https://www.stepfun.com/"><strong>StepFun</strong></a>, Foundation Model Group, Beijing. GUI-agent post-training.</span></li>
+    <li><time>Sep. 2025 – Jan. 2026</time><span><img class="academic-company-logo" src="{{ site.baseurl }}/images/companies/amap.png" alt="DreamX Team" loading="lazy"><a href="https://github.com/AMAP-ML"><strong>DreamX Team, Alibaba Amap</strong></a>, Beijing. AIGC algorithms.</span></li>
   </ul>
 </section>
 
 <section class="academic-section" id="publications">
-  <h2><span class="academic-heading-icon" aria-hidden="true">📝</span> 代表作 / 一作论文</h2>
-  <p class="academic-note"><strong>加粗</strong>为本人，* 表示同等贡献。</p>
+  <h2><span class="academic-heading-icon" aria-hidden="true">📝</span> Selected / First-author Publications</h2>
+  <p class="academic-note"><strong>Bold</strong> indicates Hongwei Yu. * indicates equal contribution.</p>
 
   <div class="academic-publications">
     <article class="academic-paper">
@@ -141,20 +140,20 @@ lang: zh-CN
     </article>
   </div>
 
-  <h3>其他论文</h3>
+  <h3>Other Publications</h3>
   <div class="academic-publications academic-publications--compact">
-    <article><p><span class="academic-venue">IEEE TMM 2026</span> <a href="https://ieeexplore.ieee.org/document/10891131">Multi-Scale Spatial Channel Joint Representation for General Multi-Modality Image Fusion With Self-Supervision</a>，J. Li, J. Chen, J. Liu, <strong>H. Yu</strong>, X. Ding, H. Ma.</p></article>
-    <article><p><span class="academic-venue">ICME 2024</span> <a href="https://ieeexplore.ieee.org/document/10687554">Invisible Pedestrians: Synthesizing Adversarial Clothing Textures To Evade Industrial Camera-Based 3D Detection</a>，X. Ding, <strong>H. Yu</strong>, J. Chen, J. Wang, J. Du, H. Ma.</p></article>
-    <article><p><span class="academic-venue">ICASSP 2024</span> <a href="https://ieeexplore.ieee.org/document/10446605">Enhancing Adversarial Transferability in Object Detection with Bidirectional Feature Distortion</a>，X. Ding, J. Chen, <strong>H. Yu</strong>, Y. Shang, B. Zou, H. Ma.</p></article>
-    <article><p><span class="academic-venue">AAAI 2024</span> <a href="https://ojs.aaai.org/index.php/AAAI/article/view/27921">Transferable Adversarial Attacks for Object Detection Using Object-Aware Significant Feature Distortion</a>，X. Ding, J. Chen, <strong>H. Yu</strong>, Y. Shang, Y. Qin, H. Ma.</p></article>
-    <article><p><span class="academic-venue">KBS 2024</span> <a href="https://www.sciencedirect.com/science/article/abs/pii/S0950705124000364">Image Paragraph Captioning with Topic Clustering and Topic Shift Prediction</a>，T. Tang, J. Chen, Y. Huang, H. Ma, Y. Zhang, <strong>H. Yu</strong>.</p></article>
+    <article><p><span class="academic-venue">IEEE TMM 2026</span> <a href="https://ieeexplore.ieee.org/document/10891131">Multi-Scale Spatial Channel Joint Representation for General Multi-Modality Image Fusion With Self-Supervision</a>, J. Li, J. Chen, J. Liu, <strong>H. Yu</strong>, X. Ding, H. Ma.</p></article>
+    <article><p><span class="academic-venue">ICME 2024</span> <a href="https://ieeexplore.ieee.org/document/10687554">Invisible Pedestrians: Synthesizing Adversarial Clothing Textures To Evade Industrial Camera-Based 3D Detection</a>, X. Ding, <strong>H. Yu</strong>, J. Chen, J. Wang, J. Du, H. Ma.</p></article>
+    <article><p><span class="academic-venue">ICASSP 2024</span> <a href="https://ieeexplore.ieee.org/document/10446605">Enhancing Adversarial Transferability in Object Detection with Bidirectional Feature Distortion</a>, X. Ding, J. Chen, <strong>H. Yu</strong>, Y. Shang, B. Zou, H. Ma.</p></article>
+    <article><p><span class="academic-venue">AAAI 2024</span> <a href="https://ojs.aaai.org/index.php/AAAI/article/view/27921">Transferable Adversarial Attacks for Object Detection Using Object-Aware Significant Feature Distortion</a>, X. Ding, J. Chen, <strong>H. Yu</strong>, Y. Shang, Y. Qin, H. Ma.</p></article>
+    <article><p><span class="academic-venue">KBS 2024</span> <a href="https://www.sciencedirect.com/science/article/abs/pii/S0950705124000364">Image Paragraph Captioning with Topic Clustering and Topic Shift Prediction</a>, T. Tang, J. Chen, Y. Huang, H. Ma, Y. Zhang, <strong>H. Yu</strong>.</p></article>
   </div>
-  <p class="academic-scholar">更多论文请见 <a href="https://scholar.google.com/citations?hl=zh-CN&amp;user=cDidt64AAAAJ">Google Scholar</a>。</p>
+  <p class="academic-scholar">For a complete publication list, please visit <a href="https://scholar.google.com/citations?hl=zh-CN&amp;user=cDidt64AAAAJ">Google Scholar</a>.</p>
 </section>
 
 <section class="academic-section" id="service">
-  <h2><span class="academic-heading-icon" aria-hidden="true">🤝</span> 学术服务</h2>
-  <h3>会议与期刊审稿</h3>
+  <h2><span class="academic-heading-icon" aria-hidden="true">🤝</span> Academic Service</h2>
+  <h3>Conference and Journal Reviewing</h3>
   <ul class="academic-list academic-list--plain">
     <li>ARR (ACL / EMNLP / NAACL)</li>
     <li>CVPR, ICCV, ECCV, NeurIPS, AAAI, ACM-MM, ICML</li>
@@ -162,14 +161,14 @@ lang: zh-CN
 </section>
 
 <section class="academic-section" id="honors">
-  <h2><span class="academic-heading-icon" aria-hidden="true">🏆</span> 荣誉与奖项</h2>
+  <h2><span class="academic-heading-icon" aria-hidden="true">🏆</span> Honors and Awards</h2>
   <ul class="academic-list academic-list--plain">
     <li><strong>Gold Reviewer Award @ ICML 2026</strong></li>
-    <li>博士生国家奖学金</li>
-    <li>本科生国家奖学金</li>
-    <li>华为未来之星奖学金</li>
-    <li>计算机博弈大赛全国一等奖</li>
-    <li>三好研究生 / 三好学生</li>
-    <li>校级优秀毕业生</li>
+    <li>National Scholarship for Doctoral Students</li>
+    <li>National Scholarship for Undergraduate Students</li>
+    <li>Huawei Future Star Scholarship</li>
+    <li>First Prize, National Computer Game Competition</li>
+    <li>Outstanding Graduate Student / Student</li>
+    <li>Outstanding Graduate of USTB</li>
   </ul>
 </section>

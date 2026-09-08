@@ -1,0 +1,44 @@
+---
+layout: compress
+---
+{% include base_path %}
+<!doctype html>
+<html lang="{{ page.lang | default: site.locale | slice: 0,2 }}" class="no-js">
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+  </head>
+  <body class="academic-home">
+    <header class="academic-nav" aria-label="{% if page.lang == 'en' %}Primary navigation{% else %}主导航{% endif %}">
+      <nav class="academic-wrap">
+        {% if page.lang == "en" %}
+          <a class="academic-language-switch" href="{{ site.baseurl }}/zh/" lang="zh-CN">中文</a>
+          <a href="#about">About</a>
+          <a href="#education">Education</a>
+          <a href="#news">News</a>
+          <a href="#experience">Experience</a>
+          <a href="#publications">Publications</a>
+          <a href="#service">Service</a>
+          <a href="#honors">Honors</a>
+        {% else %}
+          <a class="academic-language-switch" href="{{ site.baseurl }}/" lang="en">English</a>
+          <a href="#about">个人简介</a>
+          <a href="#education">教育经历</a>
+          <a href="#news">最新动态</a>
+          <a href="#experience">实习经历</a>
+          <a href="#publications">论文发表</a>
+          <a href="#service">学术服务</a>
+          <a href="#honors">荣誉奖项</a>
+        {% endif %}
+      </nav>
+    </header>
+    <main class="academic-wrap">
+      {{ content }}
+    </main>
+    <footer class="academic-footer academic-wrap">
+      <span>© {{ site.time | date: '%Y' }} Hongwei Yu</span>
+      <span>{% if page.lang == "en" %}Built with Jekyll &amp; GitHub Pages{% else %}使用 Jekyll &amp; GitHub Pages 构建{% endif %}</span>
+    </footer>
+    {% include scripts.html %}
+  </body>
+</html>
