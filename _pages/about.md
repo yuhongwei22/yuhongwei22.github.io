@@ -1,6 +1,7 @@
 ---
 permalink: /zh/
 title: "余宏伟 · Hongwei Yu"
+seo_title: "余宏伟 - 个人主页"
 description: "余宏伟（Hongwei Yu），北京科技大学计算机科学与技术博士研究生，研究方向为 Post-Training、MLLM 和 AIGC。"
 layout: home
 author_profile: false
