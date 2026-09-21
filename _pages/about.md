@@ -26,7 +26,7 @@ lang: zh-CN
 <section class="academic-section" id="education">
   <h2><span class="academic-heading-icon" aria-hidden="true">📖</span> 教育经历</h2>
   <ul class="academic-list">
-    <li><time>2022.09 – 至今</time><span><strong>博士研究生</strong>，北京科技大学，计算机科学与技术，北京。获博士生国家奖学金。<br>博士生导师：<a href="https://scholar.google.com.hk/citations?user=A1gA9XIAAAAJ&amp;hl=zh-CN&amp;oi=ao">陈建生教授</a>。<br>所在团队：<a href="https://3dimagelab.com/">3D Image Lab</a>，团队负责人：<a href="https://scholar.google.com.hk/citations?user=32hwVLEAAAAJ&amp;hl=zh-CN&amp;oi=ao">马惠敏教授</a>。</span></li>
+    <li><time>2022.09 – 至今</time><span><strong>博士研究生</strong>，北京科技大学，计算机科学与技术，北京。获博士生国家奖学金。<br>博士生导师：<a href="https://scholar.google.com.hk/citations?user=A1gA9XIAAAAJ&amp;hl=zh-CN&amp;oi=ao">陈健生教授</a>。<br>所在团队：<a href="https://3dimagelab.com/">3D Image Lab</a>，团队负责人：<a href="https://scholar.google.com.hk/citations?user=32hwVLEAAAAJ&amp;hl=zh-CN&amp;oi=ao">马惠敏教授</a>。</span></li>
     <li><time>2018.09 – 2022.06</time><span><strong>学士</strong>，北京科技大学，计算机科学与技术，北京。获本科生国家奖学金。</span></li>
   </ul>
 </section>
