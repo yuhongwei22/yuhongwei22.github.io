@@ -34,6 +34,7 @@ lang: zh-CN
 <section class="academic-section" id="news">
   <h2><span class="academic-heading-icon" aria-hidden="true">🔥</span> 最新动态</h2>
   <ul class="academic-list academic-list--news">
+    <li><time>2026.10</time><span>一作论文 <a href="https://neurips.cc/virtual/2026/poster/148710">Hybrid Reinforcement Learning for One-step Degraded Infrared and Visible Image Fusion</a> 被 <strong>NeurIPS 2026</strong> 接收为 <strong>Spotlight</strong>（292 / 30,709，0.9%）。</span></li>
     <li><time>2026.08</time><span>共同一作论文 <a href="https://arxiv.org/abs/2606.18890">Skill-Guided Continuation Distillation for GUI Agents</a> 被 <strong>EMNLP 2026</strong> 接收。</span></li>
     <li><time>2026.08</time><span>共同一作论文 <a href="https://arxiv.org/abs/2607.21174">Decoupling Cross-Modality Manifold Discrepancy: Leveraging Visible Diffusion Priors for Infrared Super-Resolution</a> 被 <strong>ACM MM 2026</strong> 接收。</span></li>
     <li><time>2026.05</time><span>加入<strong>京东零售 TGT 顶尖青年技术天才计划</strong>，参与多模态图像视频生成大模型方向研究。</span></li>
@@ -58,6 +59,15 @@ lang: zh-CN
   <p class="academic-note"><strong>加粗</strong>为本人，* 表示同等贡献。</p>
 
   <div class="academic-publications">
+    <article class="academic-paper">
+      <a class="academic-paper__figure" href="https://neurips.cc/virtual/2026/poster/148710"><img src="{{ site.baseurl }}/images/papers/onehrl.jpg" alt="Hybrid Reinforcement Learning for One-step Degraded Infrared and Visible Image Fusion" loading="lazy" decoding="async"></a>
+      <div class="academic-paper__content">
+        <p class="academic-venue">NeurIPS 2026 <span>Spotlight · 一作 · 0.9%（292 / 30,709）</span></p>
+        <p><a href="https://neurips.cc/virtual/2026/poster/148710">Hybrid Reinforcement Learning for One-step Degraded Infrared and Visible Image Fusion</a></p>
+        <p><strong>H. Yu</strong>, D. Zha, Y. Bai, J. Li, L. Sun, X. Chu.</p>
+        <p class="academic-paper__actions"><a href="https://openreview.net/pdf?id=vdvW81Wcy2">Paper <span>↗</span></a></p>
+      </div>
+    </article>
     <article class="academic-paper">
       <a class="academic-paper__figure" href="https://arxiv.org/abs/2606.18890"><img src="{{ site.baseurl }}/images/papers/skill-guided-gui-agent.webp" alt="Skill-Guided Continuation Distillation for GUI Agents" loading="lazy" decoding="async"></a>
       <div class="academic-paper__content">

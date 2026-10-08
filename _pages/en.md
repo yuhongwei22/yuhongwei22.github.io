@@ -33,6 +33,7 @@ redirect_from:
 <section class="academic-section" id="news">
   <h2><span class="academic-heading-icon" aria-hidden="true">🔥</span> News</h2>
   <ul class="academic-list academic-list--news">
+    <li><time>Oct. 2026</time><span>My first-authored paper <a href="https://neurips.cc/virtual/2026/poster/148710">Hybrid Reinforcement Learning for One-step Degraded Infrared and Visible Image Fusion</a> was accepted as a <strong>Spotlight</strong> at <strong>NeurIPS 2026</strong> (292 / 30,709; 0.9%).</span></li>
     <li><time>Aug. 2026</time><span>Our co-first-authored paper <a href="https://arxiv.org/abs/2606.18890">Skill-Guided Continuation Distillation for GUI Agents</a> was accepted to <strong>EMNLP 2026</strong>.</span></li>
     <li><time>Aug. 2026</time><span>Our co-first-authored paper <a href="https://arxiv.org/abs/2607.21174">Decoupling Cross-Modality Manifold Discrepancy: Leveraging Visible Diffusion Priors for Infrared Super-Resolution</a> was accepted to <strong>ACM MM 2026</strong>.</span></li>
     <li><time>May 2026</time><span>Joined <strong>JD Retail's TGT Program</strong> to work on multimodal image and video generation foundation models.</span></li>
@@ -57,6 +58,15 @@ redirect_from:
   <p class="academic-note"><strong>Bold</strong> indicates Hongwei Yu. * indicates equal contribution.</p>
 
   <div class="academic-publications">
+    <article class="academic-paper">
+      <a class="academic-paper__figure" href="https://neurips.cc/virtual/2026/poster/148710"><img src="{{ site.baseurl }}/images/papers/onehrl.jpg" alt="Hybrid Reinforcement Learning for One-step Degraded Infrared and Visible Image Fusion" loading="lazy" decoding="async"></a>
+      <div class="academic-paper__content">
+        <p class="academic-venue">NeurIPS 2026 <span>Spotlight · First author · 0.9% (292 / 30,709)</span></p>
+        <p><a href="https://neurips.cc/virtual/2026/poster/148710">Hybrid Reinforcement Learning for One-step Degraded Infrared and Visible Image Fusion</a></p>
+        <p><strong>H. Yu</strong>, D. Zha, Y. Bai, J. Li, L. Sun, X. Chu.</p>
+        <p class="academic-paper__actions"><a href="https://openreview.net/pdf?id=vdvW81Wcy2">Paper <span>↗</span></a></p>
+      </div>
+    </article>
     <article class="academic-paper">
       <a class="academic-paper__figure" href="https://arxiv.org/abs/2606.18890"><img src="{{ site.baseurl }}/images/papers/skill-guided-gui-agent.webp" alt="Skill-Guided Continuation Distillation for GUI Agents" loading="lazy" decoding="async"></a>
       <div class="academic-paper__content">
