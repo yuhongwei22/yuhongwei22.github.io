@@ -49,7 +49,7 @@ lang: zh-CN
 <section class="academic-section" id="experience">
   <h2><span class="academic-heading-icon" aria-hidden="true">💻</span> 实习经历</h2>
   <ul class="academic-list">
-    <li><time>2026.10 – 至今</time><span><strong>三星基座模型团队</strong>，SRCB–S Future 算法实习生，北京。聚焦具身智能。</span></li>
+    <li><time>2026.10 – 至今</time><span><img class="academic-company-logo" src="{{ site.baseurl }}/images/companies/samsung.png" alt="三星" loading="lazy"><a href="https://research.samsung.com/src-b"><strong>三星基座模型团队</strong></a>，SRCB–S Future 算法实习生，北京。聚焦具身智能。</span></li>
     <li><time>2026.05 – 2026.10</time><span><img class="academic-company-logo" src="{{ site.baseurl }}/images/companies/jd-joy.png" alt="京东" loading="lazy"><a href="https://www.jd.com/"><strong>京东零售</strong></a>，TGT 顶尖青年技术天才计划，北京。多模态图像视频生成大模型方向。</span></li>
     <li><time>2026.01 – 2026.05</time><span><img class="academic-company-logo academic-company-logo--dark" src="{{ site.baseurl }}/images/companies/stepfun.svg" alt="阶跃" loading="lazy"><a href="https://www.stepfun.com/"><strong>阶跃（StepFun）</strong></a>，基模组，北京。GUI-Agent 后训练研究。</span></li>
     <li><time>2025.09 – 2026.01</time><span><img class="academic-company-logo" src="{{ site.baseurl }}/images/companies/amap.png" alt="DreamX Team" loading="lazy"><a href="https://github.com/AMAP-ML"><strong>阿里巴巴高德 DreamX Team</strong></a>，北京。AIGC 算法。</span></li>

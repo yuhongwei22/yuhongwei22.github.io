@@ -48,7 +48,7 @@ redirect_from:
 <section class="academic-section" id="experience">
   <h2><span class="academic-heading-icon" aria-hidden="true">💻</span> Work / Internships</h2>
   <ul class="academic-list">
-    <li><time>Oct. 2026 – Present</time><span><strong>Samsung Foundation Model Team</strong>, SRCB–S Future Algorithm Intern, Beijing. Embodied intelligence.</span></li>
+    <li><time>Oct. 2026 – Present</time><span><img class="academic-company-logo" src="{{ site.baseurl }}/images/companies/samsung.png" alt="Samsung" loading="lazy"><a href="https://research.samsung.com/src-b"><strong>Samsung Foundation Model Team</strong></a>, SRCB–S Future Algorithm Intern, Beijing. Embodied intelligence.</span></li>
     <li><time>May 2026 – Oct. 2026</time><span><img class="academic-company-logo" src="{{ site.baseurl }}/images/companies/jd-joy.png" alt="JD" loading="lazy"><a href="https://www.jd.com/"><strong>JD Retail</strong></a>, TGT Program, Beijing. Multimodal image and video generation foundation models.</span></li>
     <li><time>Jan. 2026 – May 2026</time><span><img class="academic-company-logo academic-company-logo--dark" src="{{ site.baseurl }}/images/companies/stepfun.svg" alt="StepFun" loading="lazy"><a href="https://www.stepfun.com/"><strong>StepFun</strong></a>, Foundation Model Group, Beijing. GUI-agent post-training.</span></li>
     <li><time>Sep. 2025 – Jan. 2026</time><span><img class="academic-company-logo" src="{{ site.baseurl }}/images/companies/amap.png" alt="DreamX Team" loading="lazy"><a href="https://github.com/AMAP-ML"><strong>DreamX Team, Alibaba Amap</strong></a>, Beijing. AIGC algorithms.</span></li>
