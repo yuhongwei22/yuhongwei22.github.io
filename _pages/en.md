@@ -17,7 +17,7 @@ redirect_from:
       <img class="academic-avatar" src="{{ site.baseurl }}/images/person.webp" alt="Hongwei Yu" width="260" height="195" decoding="async">
       <span class="academic-profile__name"><strong>余宏伟</strong><span>Hongwei Yu</span></span>
     </span>I am currently a Ph.D. candidate in Computer Science and Technology at <a href="https://www.ustb.edu.cn/">University of Science and Technology Beijing (USTB)</a> (Sep. 2022–present). My research focuses on <strong>Post-Training, MLLM, and AIGC</strong>.</p>
-    <p>During my Ph.D., I interned at <strong>DreamX Team, Alibaba Amap</strong>, the <strong>Foundation Model Group at StepFun</strong>, and <strong>JD Retail</strong>. I am currently an Algorithm Intern with the <strong>Foundation Model Team at Samsung Research China - Beijing (SRCB), S Future</strong>, focusing on embodied intelligence and seeking full-time opportunities starting in <strong>Fall 2027</strong>; please feel free to contact me.</p>
+    <p>During my Ph.D., I interned at <strong>DreamX Team, Alibaba Amap</strong>, the <strong>Foundation Model Group at StepFun</strong>, and <strong>JD Retail</strong>. I am currently an <strong>SRCB–S Future Algorithm Intern with Samsung's Foundation Model Team</strong>, focusing on embodied intelligence and seeking full-time opportunities starting in <strong>Fall 2027</strong>; please feel free to contact me.</p>
     <p class="academic-links"><a href="mailto:yuhongwei22@xs.ustb.edu.cn">Email</a><a href="https://scholar.google.com/citations?hl=zh-CN&amp;user=cDidt64AAAAJ">Google Scholar</a><a href="https://github.com/yuhongwei22">GitHub</a></p>
   </div>
 </section>
@@ -33,7 +33,7 @@ redirect_from:
 <section class="academic-section" id="news">
   <h2><span class="academic-heading-icon" aria-hidden="true">🔥</span> News</h2>
   <ul class="academic-list academic-list--news">
-    <li><time>Oct. 2026</time><span>Joined <strong>Samsung Research China - Beijing (SRCB), S Future</strong> as an Algorithm Intern with the Foundation Model Team, focusing on embodied intelligence.</span></li>
+    <li><time>Oct. 2026</time><span>Joined <strong>Samsung's Foundation Model Team</strong> as an SRCB–S Future Algorithm Intern, focusing on embodied intelligence.</span></li>
     <li><time>Oct. 2026</time><span>My first-authored paper <a href="https://neurips.cc/virtual/2026/poster/148710">Hybrid Reinforcement Learning for One-step Degraded Infrared and Visible Image Fusion</a> was accepted as a <strong>Spotlight</strong> at <strong>NeurIPS 2026</strong> (292 / 30,709; 0.9%).</span></li>
     <li><time>Aug. 2026</time><span>Our co-first-authored paper <a href="https://arxiv.org/abs/2606.18890">Skill-Guided Continuation Distillation for GUI Agents</a> was accepted to <strong>EMNLP 2026</strong>.</span></li>
     <li><time>Aug. 2026</time><span>Our co-first-authored paper <a href="https://arxiv.org/abs/2607.21174">Decoupling Cross-Modality Manifold Discrepancy: Leveraging Visible Diffusion Priors for Infrared Super-Resolution</a> was accepted to <strong>ACM MM 2026</strong>.</span></li>
@@ -48,7 +48,7 @@ redirect_from:
 <section class="academic-section" id="experience">
   <h2><span class="academic-heading-icon" aria-hidden="true">💻</span> Work / Internships</h2>
   <ul class="academic-list">
-    <li><time>Oct. 2026 – Present</time><span><strong>Samsung Research China - Beijing (SRCB)</strong>, S Future, Foundation Model Team, Algorithm Intern, Beijing. Embodied intelligence.</span></li>
+    <li><time>Oct. 2026 – Present</time><span><strong>Samsung Foundation Model Team</strong>, SRCB–S Future Algorithm Intern, Beijing. Embodied intelligence.</span></li>
     <li><time>May 2026 – Oct. 2026</time><span><img class="academic-company-logo" src="{{ site.baseurl }}/images/companies/jd-joy.png" alt="JD" loading="lazy"><a href="https://www.jd.com/"><strong>JD Retail</strong></a>, TGT Program, Beijing. Multimodal image and video generation foundation models.</span></li>
     <li><time>Jan. 2026 – May 2026</time><span><img class="academic-company-logo academic-company-logo--dark" src="{{ site.baseurl }}/images/companies/stepfun.svg" alt="StepFun" loading="lazy"><a href="https://www.stepfun.com/"><strong>StepFun</strong></a>, Foundation Model Group, Beijing. GUI-agent post-training.</span></li>
     <li><time>Sep. 2025 – Jan. 2026</time><span><img class="academic-company-logo" src="{{ site.baseurl }}/images/companies/amap.png" alt="DreamX Team" loading="lazy"><a href="https://github.com/AMAP-ML"><strong>DreamX Team, Alibaba Amap</strong></a>, Beijing. AIGC algorithms.</span></li>
