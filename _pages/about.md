@@ -18,7 +18,7 @@ lang: zh-CN
       <img class="academic-avatar" src="{{ site.baseurl }}/images/person.webp" alt="余宏伟" width="260" height="195" decoding="async">
       <span class="academic-profile__name"><strong>余宏伟</strong><span>Hongwei Yu</span></span>
     </span>我目前在<a href="https://www.ustb.edu.cn/">北京科技大学</a>攻读计算机科学与技术博士学位（2022.09 至今），研究方向聚焦于<strong>Post-Training、MLLM 和 AIGC</strong>。</p>
-    <p>博士期间，我曾在<strong>阿里巴巴高德 DreamX Team</strong>、<strong>阶跃（StepFun）</strong>和<strong>京东零售</strong>实习。目前我在京东零售 <strong>TGT 顶尖青年技术天才计划</strong>参与视频生成研究，并积极寻找 <strong>2027 年秋季</strong>入职的全职机会，欢迎联系交流。</p>
+    <p>博士期间，我曾在<strong>阿里巴巴高德 DreamX Team</strong>、<strong>阶跃（StepFun）基模组</strong>和<strong>京东零售</strong>实习。目前我在<strong>三星中国研究院北京（SRCB）S Future</strong>基座模型团队担任算法实习生，聚焦具身智能，并积极寻找 <strong>2027 年秋季</strong>入职的全职机会，欢迎联系交流。</p>
     <p class="academic-links"><a href="mailto:yuhongwei22@xs.ustb.edu.cn">Email</a><a href="https://scholar.google.com/citations?hl=zh-CN&amp;user=cDidt64AAAAJ">Google Scholar</a><a href="https://github.com/yuhongwei22">GitHub</a></p>
   </div>
 </section>
@@ -34,6 +34,7 @@ lang: zh-CN
 <section class="academic-section" id="news">
   <h2><span class="academic-heading-icon" aria-hidden="true">🔥</span> 最新动态</h2>
   <ul class="academic-list academic-list--news">
+    <li><time>2026.10</time><span>加入<strong>三星中国研究院北京（SRCB）S Future</strong>基座模型团队，担任算法实习生，聚焦具身智能。</span></li>
     <li><time>2026.10</time><span>一作论文 <a href="https://neurips.cc/virtual/2026/poster/148710">Hybrid Reinforcement Learning for One-step Degraded Infrared and Visible Image Fusion</a> 被 <strong>NeurIPS 2026</strong> 接收为 <strong>Spotlight</strong>（292 / 30,709，0.9%）。</span></li>
     <li><time>2026.08</time><span>共同一作论文 <a href="https://arxiv.org/abs/2606.18890">Skill-Guided Continuation Distillation for GUI Agents</a> 被 <strong>EMNLP 2026</strong> 接收。</span></li>
     <li><time>2026.08</time><span>共同一作论文 <a href="https://arxiv.org/abs/2607.21174">Decoupling Cross-Modality Manifold Discrepancy: Leveraging Visible Diffusion Priors for Infrared Super-Resolution</a> 被 <strong>ACM MM 2026</strong> 接收。</span></li>
@@ -48,7 +49,8 @@ lang: zh-CN
 <section class="academic-section" id="experience">
   <h2><span class="academic-heading-icon" aria-hidden="true">💻</span> 实习经历</h2>
   <ul class="academic-list">
-    <li><time>2026.05 – 至今</time><span><img class="academic-company-logo" src="{{ site.baseurl }}/images/companies/jd-joy.png" alt="京东" loading="lazy"><a href="https://www.jd.com/"><strong>京东零售</strong></a>，TGT 顶尖青年技术天才计划，北京。多模态图像视频生成大模型方向。</span></li>
+    <li><time>2026.10 – 至今</time><span><strong>三星中国研究院北京（SRCB）</strong>，S Future，基座模型团队，算法实习生，北京。聚焦具身智能。</span></li>
+    <li><time>2026.05 – 2026.10</time><span><img class="academic-company-logo" src="{{ site.baseurl }}/images/companies/jd-joy.png" alt="京东" loading="lazy"><a href="https://www.jd.com/"><strong>京东零售</strong></a>，TGT 顶尖青年技术天才计划，北京。多模态图像视频生成大模型方向。</span></li>
     <li><time>2026.01 – 2026.05</time><span><img class="academic-company-logo academic-company-logo--dark" src="{{ site.baseurl }}/images/companies/stepfun.svg" alt="阶跃" loading="lazy"><a href="https://www.stepfun.com/"><strong>阶跃（StepFun）</strong></a>，基模组，北京。GUI-Agent 后训练研究。</span></li>
     <li><time>2025.09 – 2026.01</time><span><img class="academic-company-logo" src="{{ site.baseurl }}/images/companies/amap.png" alt="DreamX Team" loading="lazy"><a href="https://github.com/AMAP-ML"><strong>阿里巴巴高德 DreamX Team</strong></a>，北京。AIGC 算法。</span></li>
   </ul>
