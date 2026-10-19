@@ -33,6 +33,7 @@ redirect_from:
 <section class="academic-section" id="news">
   <h2><span class="academic-heading-icon" aria-hidden="true">🔥</span> News</h2>
   <ul class="academic-list academic-list--news">
+    <li><time>Oct. 2026</time><span>Our paper <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6819075">Focusing on Object Relations in Scenes: A Multi-collaborative Graph-structured Framework for Infrared and Visible Image Fusion</a> was accepted to <strong>Information Fusion</strong>.</span></li>
     <li><time>Oct. 2026</time><span>Joined <strong>Samsung's Foundation Model Team</strong> as an SRCB–S Future Algorithm Intern, focusing on embodied intelligence.</span></li>
     <li><time>Oct. 2026</time><span>My first-authored paper <a href="https://neurips.cc/virtual/2026/poster/148710">Hybrid Reinforcement Learning for One-step Degraded Infrared and Visible Image Fusion</a> was accepted as a <strong>Spotlight</strong> at <strong>NeurIPS 2026</strong> (292 / 30,709; 0.9%).</span></li>
     <li><time>Aug. 2026</time><span>Our co-first-authored paper <a href="https://arxiv.org/abs/2606.18890">Skill-Guided Continuation Distillation for GUI Agents</a> was accepted to <strong>EMNLP 2026</strong>.</span></li>
@@ -60,6 +61,15 @@ redirect_from:
   <p class="academic-note"><strong>Bold</strong> indicates Hongwei Yu. * indicates equal contribution.</p>
 
   <div class="academic-publications">
+    <article class="academic-paper">
+      <a class="academic-paper__figure" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6819075"><img src="{{ site.baseurl }}/images/papers/multi-collaborative-graph-fusion.jpg" alt="Focusing on Object Relations in Scenes: A Multi-collaborative Graph-structured Framework for Infrared and Visible Image Fusion" loading="lazy" decoding="async"></a>
+      <div class="academic-paper__content">
+        <p class="academic-venue">Information Fusion <span>Accepted</span></p>
+        <p><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6819075">Focusing on Object Relations in Scenes: A Multi-collaborative Graph-structured Framework for Infrared and Visible Image Fusion</a></p>
+        <p><strong>H. Yu</strong>, et al.</p>
+        <p class="academic-paper__actions"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6819075">SSRN <span>↗</span></a></p>
+      </div>
+    </article>
     <article class="academic-paper">
       <a class="academic-paper__figure" href="https://neurips.cc/virtual/2026/poster/148710"><img src="{{ site.baseurl }}/images/papers/onehrl.jpg" alt="Hybrid Reinforcement Learning for One-step Degraded Infrared and Visible Image Fusion" loading="lazy" decoding="async"></a>
       <div class="academic-paper__content">
