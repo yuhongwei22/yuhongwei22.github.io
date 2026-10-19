@@ -67,7 +67,7 @@ lang: zh-CN
       <div class="academic-paper__content">
         <p class="academic-venue">Information Fusion <span>已录用 · 共同一作 · 影响因子：18.6</span></p>
         <p><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6819075">Focusing on Object Relations in Scenes: A Multi-collaborative Graph-structured Framework for Infrared and Visible Image Fusion</a></p>
-        <p>Jiawei Li*, <strong>Hongwei Yu*</strong>, Xinlong Ding, Enlong Wang, Qiankun Liu, Jinyuan Liu, Huimin Ma, Jiansheng Chen.</p>
+        <p>J. Li*, <strong>H. Yu*</strong>, et al.</p>
         <p class="academic-paper__actions"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6819075">SSRN <span>↗</span></a></p>
       </div>
     </article>
