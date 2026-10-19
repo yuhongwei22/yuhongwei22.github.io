@@ -64,7 +64,7 @@ redirect_from:
     <article class="academic-paper">
       <a class="academic-paper__figure" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6819075"><img src="{{ site.baseurl }}/images/papers/multi-collaborative-graph-fusion.jpg" alt="Focusing on Object Relations in Scenes: A Multi-collaborative Graph-structured Framework for Infrared and Visible Image Fusion" loading="lazy" decoding="async"></a>
       <div class="academic-paper__content">
-        <p class="academic-venue">Information Fusion <span>Accepted · Co-first author (second author) · Impact Factor: 18.6</span></p>
+        <p class="academic-venue">Information Fusion <span>Accepted · Co-first author · Impact Factor: 18.6</span></p>
         <p><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6819075">Focusing on Object Relations in Scenes: A Multi-collaborative Graph-structured Framework for Infrared and Visible Image Fusion</a></p>
         <p>Jiawei Li*, <strong>Hongwei Yu*</strong>, Xinlong Ding, Enlong Wang, Qiankun Liu, Jinyuan Liu, Huimin Ma, Jiansheng Chen.</p>
         <p class="academic-paper__actions"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6819075">SSRN <span>↗</span></a></p>
