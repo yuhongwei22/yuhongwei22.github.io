@@ -34,7 +34,7 @@ lang: zh-CN
 <section class="academic-section" id="news">
   <h2><span class="academic-heading-icon" aria-hidden="true">🔥</span> 最新动态</h2>
   <ul class="academic-list academic-list--news">
-    <li><time>2026.10</time><span>共同一作论文 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6819075">Focusing on Object Relations in Scenes: A Multi-collaborative Graph-structured Framework for Infrared and Visible Image Fusion</a> 被 <strong>Information Fusion</strong> 接收。</span></li>
+    <li><time>2026.10</time><span>共同一作论文 <a href="https://www.sciencedirect.com/science/article/pii/S1566253526007621">Focusing on Object Relations in Scenes: A Multi-collaborative Graph-structured Framework for Infrared and Visible Image Fusion</a> 现已在线发表于 <strong>Information Fusion</strong>。</span></li>
     <li><time>2026.10</time><span>加入<strong>三星基座模型团队</strong>，担任 SRCB–S Future 算法实习生，聚焦具身智能。</span></li>
     <li><time>2026.10</time><span>一作论文 <a href="https://neurips.cc/virtual/2026/poster/148710">Hybrid Reinforcement Learning for One-step Degraded Infrared and Visible Image Fusion</a> 被 <strong>NeurIPS 2026</strong> 接收为 <strong>Spotlight</strong>（292 / 30,709，0.9%）。</span></li>
     <li><time>2026.08</time><span>共同一作论文 <a href="https://arxiv.org/abs/2606.18890">Skill-Guided Continuation Distillation for GUI Agents</a> 被 <strong>EMNLP 2026</strong> 接收。</span></li>
@@ -63,12 +63,12 @@ lang: zh-CN
 
   <div class="academic-publications">
     <article class="academic-paper">
-      <a class="academic-paper__figure" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6819075"><img src="{{ site.baseurl }}/images/papers/multi-collaborative-graph-fusion.jpg" alt="Focusing on Object Relations in Scenes: A Multi-collaborative Graph-structured Framework for Infrared and Visible Image Fusion" loading="lazy" decoding="async"></a>
+      <a class="academic-paper__figure" href="https://www.sciencedirect.com/science/article/pii/S1566253526007621"><img src="{{ site.baseurl }}/images/papers/multi-collaborative-graph-fusion.jpg" alt="Focusing on Object Relations in Scenes: A Multi-collaborative Graph-structured Framework for Infrared and Visible Image Fusion" loading="lazy" decoding="async"></a>
       <div class="academic-paper__content">
-        <p class="academic-venue">Information Fusion <span>已录用 · 共同一作 · 影响因子：18.6</span></p>
-        <p><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6819075">Focusing on Object Relations in Scenes: A Multi-collaborative Graph-structured Framework for Infrared and Visible Image Fusion</a></p>
+        <p class="academic-venue">Information Fusion <span>在线发表 · 共同一作 · 影响因子：18.6</span></p>
+        <p><a href="https://www.sciencedirect.com/science/article/pii/S1566253526007621">Focusing on Object Relations in Scenes: A Multi-collaborative Graph-structured Framework for Infrared and Visible Image Fusion</a></p>
         <p>J. Li*, <strong>H. Yu*</strong>, et al.</p>
-        <p class="academic-paper__actions"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6819075">SSRN <span>↗</span></a></p>
+        <p class="academic-paper__actions"><a href="https://www.sciencedirect.com/science/article/pii/S1566253526007621">Paper <span>↗</span></a></p>
       </div>
     </article>
     <article class="academic-paper">
